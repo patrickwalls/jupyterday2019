@@ -1,6 +1,6 @@
 # UBC JupyterDay 2019
 
-<img src="https://jupyter.org/assets/main-logo.svg" style="width: 600px; text-align:center">
+<img src="https://jupyter.org/assets/main-logo.svg" width=300 style="display: block; margin: auto">
 
 [Jupyter](http://jupyter.org/) is web application for producing computational narratives: a notebook in the browser which runs code and renders text, mathematical notation, images and videos. Jupyter notebooks are a powerful open source tool for scientific computing and reproducible research.
 
