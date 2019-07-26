@@ -1,7 +1,5 @@
 # UBC JupyterDay 2019
 
-<img src="https://jupyter.org/assets/main-logo.svg" width=300 align="middle">
-
 [Jupyter](http://jupyter.org/) is web application for producing computational narratives: a notebook in the browser which runs code and renders text, mathematical notation, images and videos. Jupyter notebooks are a powerful open source tool for scientific computing and reproducible research.
 
 [The Pacific Institute for the Mathematical Sciences (PIMS)](http://www.pims.math.ca/) hosts Jupyter notebooks on [syzygy.ca](http://syzygy.ca/) and JupyterDay is an opportunity for instructors, researchers and students at UBC to share their Jupyter experiences and to learn about new Jupyter tools.
