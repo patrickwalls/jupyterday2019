@@ -4,9 +4,13 @@
 
 [The Pacific Institute for the Mathematical Sciences (PIMS)](http://www.pims.math.ca/) hosts Jupyter notebooks on [syzygy.ca](http://syzygy.ca/) and JupyterDay is an opportunity for instructors, researchers and students at UBC to share their Jupyter experiences and to learn about new Jupyter tools.
 
+Come join other instructors, researchers and students at UBC to share their Jupyter experiences and to learn about new Jupyter tools!
+
 * Tuesday August 27, 2019
-* 10am-4pm
+* 10am-4:30pm
 * Undergraduate Mathematics Computer Lab, LSK 121
+
+Register at [events.ctlt.ubc.ca/events/ubc-jupyterday-2019](https://events.ctlt.ubc.ca/events/ubc-jupyterday-2019/)!
 
 | | | |
 |---:|:---|:---:|
