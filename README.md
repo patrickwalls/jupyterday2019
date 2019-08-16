@@ -15,11 +15,11 @@ Register at [events.ctlt.ubc.ca/events/ubc-jupyterday-2019](https://events.ctlt.
 | 10:00-11:00 | Teaching with Data and Computation (Part I): Jupyter, Python and SciPy | [Patrick Walls](https://github.com/patrickwalls) (UBC, MATH) |
 | 11:00-12:00 | Teaching with Data and Computation (Part II): GitHub, nbgitpuller and nbgrader | [Patrick Walls](https://github.com/patrickwalls) (UBC, MATH) |
 | 12:00-1:00 | *Lunch* | |
-| 1:00-1:30 | Jupyter infrastructure | Ian Allison (UBC, PIMS) |
-| 1:30-2:00 | Teaching data science | Tiffany Timbers (UBC, MDS, STAT) |
+| 1:00-1:30 | Jupyter infrastructure | [Ian Allison](https://github.com/ianabc) (UBC, PIMS) |
+| 1:30-2:00 | Teaching data science | [Tiffany Timbers](https://github.com/ttimbers) (UBC, MDS, STAT) |
 | 2:00-2:15 | *Coffee* | |
-| 2:15-2:45 | Callysto project | Laura Gutierrez Funderburk (SFU) |
-| 2:45-3:15 | Teaching with big data in earth and ocean sciences | Phil Austin (UBC, EOAS) |
+| 2:15-2:45 | Jupyter notebooks meet Traditional Coast Salish basket weaving | [Laura Gutierrez Funderburk](https://github.com/lfunderburk) (SFU) |
+| 2:45-3:15 | Teaching with big data in earth and ocean sciences | [Phil Austin](https://github.com/phaustin) (UBC, EOAS) |
 | 3:15-3:30 | *Coffee* | |
 | 3:30-4:00 | Jupyter in chemical engineering courses | Yankai Cao (UBC, CHBE) |
-| 4:00-4:30 | Data visualization tools in Jupyter | Jes Simkin (UBC, MDS) |
+| 4:00-4:30 | Data visualization tools in Jupyter | [Jes Simkin](https://github.com/jessimk) (UBC, MDS) |
