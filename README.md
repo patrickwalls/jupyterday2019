@@ -12,8 +12,8 @@ Register at [events.ctlt.ubc.ca/events/ubc-jupyterday-2019](https://events.ctlt.
 
 | | | |
 |---:|:---|:---:|
-| 10:00-11:00 | Teaching with Data and Computation (Part I): Jupyter, Python and SciPy | [Patrick Walls](https://github.com/patrickwalls) (UBC, MATH) |
-| 11:00-12:00 | Teaching with Data and Computation (Part II): GitHub, nbgitpuller and nbgrader | [Patrick Walls](https://github.com/patrickwalls) (UBC, MATH) |
+| 10:00-11:00 | [Teaching with Data and Computation (Part I): Jupyter, Python and SciPy](https://github.com/patrickwalls/jupyter-for-instructors) | [Patrick Walls](https://github.com/patrickwalls) (UBC, MATH) |
+| 11:00-12:00 | [Teaching with Data and Computation (Part II): GitHub, nbgitpuller and nbgrader](https://github.com/patrickwalls/jupyter-for-instructors) | [Patrick Walls](https://github.com/patrickwalls) (UBC, MATH) |
 | 12:00-1:00 | *Lunch* | |
 | 1:00-1:30 | Jupyter infrastructure | [Ian Allison](https://github.com/ianabc) (UBC, PIMS) |
 | 1:30-2:00 | [Teaching data science with RISE slides and Binder](https://github.com/ttimbers/jupyter-rise-binder-demo_python) | [Tiffany Timbers](https://github.com/ttimbers) (UBC, MDS, STAT) |
