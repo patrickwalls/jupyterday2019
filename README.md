@@ -22,4 +22,4 @@ Register at [events.ctlt.ubc.ca/events/ubc-jupyterday-2019](https://events.ctlt.
 | 2:45-3:15 | Teaching with big data in earth and ocean sciences | [Phil Austin](https://github.com/phaustin) (UBC, EOAS) |
 | 3:15-3:30 | *Coffee* | |
 | 3:30-4:00 | Jupyter in chemical engineering courses | Yankai Cao (UBC, CHBE) |
-| 4:00-4:30 | Data visualization tools in Jupyter | [Jes Simkin](https://github.com/jessimk) (UBC, MDS) |
+| 4:00-4:30 | [Data visualization tools in Jupyter](https://github.com/jessimk/interactive_data_viz) | [Jes Simkin](https://github.com/jessimk) (UBC, MDS) |
