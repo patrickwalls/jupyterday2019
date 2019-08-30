@@ -18,7 +18,7 @@ Register at [events.ctlt.ubc.ca/events/ubc-jupyterday-2019](https://events.ctlt.
 | 1:00-1:30 | Jupyter infrastructure | [Ian Allison](https://github.com/ianabc) (UBC, PIMS) |
 | 1:30-2:00 | [Teaching data science with RISE slides and Binder](https://github.com/ttimbers/jupyter-rise-binder-demo_python) | [Tiffany Timbers](https://github.com/ttimbers) (UBC, MDS, STAT) |
 | 2:00-2:15 | *Coffee* | |
-| 2:15-2:45 | Jupyter notebooks meet Traditional Coast Salish basket weaving | [Laura Gutierrez Funderburk](https://github.com/lfunderburk) (SFU) |
+| 2:15-2:45 | [Jupyter notebooks meet Traditional Coast Salish basket weaving](slides/JupyterNotebooksCoastSalishWeaving.pdf) | [Laura Gutierrez Funderburk](https://github.com/lfunderburk) (SFU) |
 | 2:45-3:15 | Teaching with big data in earth and ocean sciences | [Phil Austin](https://github.com/phaustin) (UBC, EOAS) |
 | 3:15-3:30 | *Coffee* | |
 | 3:30-4:00 | Jupyter in chemical engineering courses | Yankai Cao (UBC, CHBE) |
